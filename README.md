@@ -67,8 +67,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: *(Add your email if you're comfortable sharing it)*
-
+- 📧 Email: chthiruyadav07@gmail.com
 ---
 
 ### 💡 Quote
