@@ -26,7 +26,7 @@
 - Bash
 
 **DevOps**
-- Git (Learning)
+- Git 
 - GitHub
 - Docker (Learning)
 - Jenkins (Learning)
